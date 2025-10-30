@@ -21,72 +21,29 @@ The primary objectives of this project were:
 - <a href="https://github.com/Atif20004/Starbucks-Sales-Performance-Dashboard/blob/main/Products_Table_.csv"> Products_Table_ </a>
 
 
-## **Additional Business Questions for Deeper Insights**
+## Business Questions for Analysis
 
-These advanced analytical questions were designed to uncover deeper insights into Starbucks’ business performance, customer behavior, and operational efficiency. They help guide further analysis and support strategic decision-making.
+### 🧠 Advanced Analytical Questions
 
-1. **How do product returns or order cancellations impact overall profitability?**
-   
-   Understanding the effect of returns and cancellations helps identify revenue leakage and operational inefficiencies.
+These questions are addressed using Power BI measures, DAX formulas, and visual analytics created from the available dataset.
 
-2. **What is the customer purchasing frequency (repeat customers vs. new)?**
-   
-   Analyzing repeat purchase patterns reveals customer loyalty levels and helps plan retention strategies.
+1. How do product returns or order cancellations impact overall profitability?
+2. Which time slots or days of the week generate the highest sales?
+3. Are there differences in sales performance during weekdays vs. weekends?
+4. Which products show the highest growth rate in both sales quantity and revenue value?
+5. How do price changes, discounts, or markdowns affect overall demand by product category?
+6. How does store location type (e.g., mall, airport, streetfront) influence the average sale value?
+7. Are there regional or city-specific preferences in product selection?
+8. What is the customer purchasing frequency — repeat customers vs. new customers?
+9. What’s the trend in sales per employee or footfall per store location?
+10. Are there cross-selling opportunities between product categories (e.g., Coffee & Bakery)?
 
-3. **How effective are seasonal promotions on boosting specific product categories?**
-   
-   Measures how discounts or festive offers impact category-level revenue growth.
+###  Future Insights & Strategic Analysis
 
-4. **Which time slots or days of the week generate the highest sales?**
-   
-   Identifies peak performance periods for staff scheduling and inventory planning.
+These questions are designed for advanced exploration and business forecasting — useful for extending the dashboard with predictive insights in the future.
 
-5. **Are there cross-selling opportunities between product categories (e.g., Coffee & Bakery)?**
-    
-   Helps in bundling strategies and increasing the average transaction value.
-
-6. **How does store location type (e.g., airport, mall, streetfront) influence average sale value?**
-    
-   Evaluates which type of store yields the highest profitability.
-
-7. **What’s the trend in sales per employee or footfall per location?**
-    
-   Assesses staff productivity and location efficiency to optimize operations.
-
-8. **How does the introduction of new products/SKUs impact existing sales patterns?**
-    
-   Determines whether new launches complement or cannibalize existing products.
-
-9. **Which products have the highest growth rate in sales quantity versus value?**
-    
-   Identifies fast-moving versus high-margin items for better product mix decisions.
-
-10. **What is the stock-out or lost sales percentage for top SKUs?**
-    
-    Highlights supply chain inefficiencies affecting customer satisfaction and revenue.
-
-11. **How do price changes (discounts, markdowns) affect overall demand by product?**
-    
-    Evaluates price elasticity to optimize pricing strategies.
-
-12. **Are there differences in sales performance during weekdays vs. weekends?**
-    
-    Analyzes sales rhythm to plan marketing campaigns and staffing accordingly.
-
-13. **What customer feedback or review trends can be linked to product performance?**
-    
-    Connects sentiment analysis to sales outcomes for improving product quality.
-
-14. **Are there regional or city-specific preferences in product selection?**
-    
-    Reveals local taste variations, supporting regional product customization.
-
-15. **How does the average transaction value correlate with customer demographics (if available)?**
-    
-    Identifies demographic segments contributing the most to total revenue.
-
-16. **What is the impact of product bundling or combo offers on revenue?**
-    
-    Measures the financial success of combo offers and bundled sales promotions.
-
- These questions can serve as a foundation for future analytical iterations by integrating additional datasets such as customer demographics, loyalty program data, or operational metrics.
+1. How effective are seasonal promotions in boosting sales of specific product categories?
+2. How does the introduction of new products or SKUs impact the sales of existing items?
+3. What is the estimated stock-out or lost sales percentage for top-performing SKUs?
+4. How does product bundling or combo offers influence overall revenue?
+5. What are the potential opportunities to increase average transaction value based on customer purchase behavior?
