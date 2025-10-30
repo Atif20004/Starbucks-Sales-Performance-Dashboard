@@ -29,51 +29,64 @@ These advanced analytical questions were designed to uncover deeper insights int
    
    Understanding the effect of returns and cancellations helps identify revenue leakage and operational inefficiencies.
 
-3. **What is the customer purchasing frequency (repeat customers vs. new)?**
+2. **What is the customer purchasing frequency (repeat customers vs. new)?**
    
    Analyzing repeat purchase patterns reveals customer loyalty levels and helps plan retention strategies.
 
-5. **How effective are seasonal promotions on boosting specific product categories?**
+3. **How effective are seasonal promotions on boosting specific product categories?**
    
    Measures how discounts or festive offers impact category-level revenue growth.
 
-7. **Which time slots or days of the week generate the highest sales?**
+4. **Which time slots or days of the week generate the highest sales?**
+   
    Identifies peak performance periods for staff scheduling and inventory planning.
 
-8. **Are there cross-selling opportunities between product categories (e.g., Coffee & Bakery)?**
+5. **Are there cross-selling opportunities between product categories (e.g., Coffee & Bakery)?**
+    
    Helps in bundling strategies and increasing the average transaction value.
 
-9. **How does store location type (e.g., airport, mall, streetfront) influence average sale value?**
+6. **How does store location type (e.g., airport, mall, streetfront) influence average sale value?**
+    
    Evaluates which type of store yields the highest profitability.
 
-10. **What’s the trend in sales per employee or footfall per location?**
+7. **What’s the trend in sales per employee or footfall per location?**
+    
    Assesses staff productivity and location efficiency to optimize operations.
 
-11. **How does the introduction of new products/SKUs impact existing sales patterns?**
+8. **How does the introduction of new products/SKUs impact existing sales patterns?**
+    
    Determines whether new launches complement or cannibalize existing products.
 
-12. **Which products have the highest growth rate in sales quantity versus value?**
+9. **Which products have the highest growth rate in sales quantity versus value?**
+    
    Identifies fast-moving versus high-margin items for better product mix decisions.
 
-13. **What is the stock-out or lost sales percentage for top SKUs?**
+10. **What is the stock-out or lost sales percentage for top SKUs?**
+    
     Highlights supply chain inefficiencies affecting customer satisfaction and revenue.
 
-14. **How do price changes (discounts, markdowns) affect overall demand by product?**
+11. **How do price changes (discounts, markdowns) affect overall demand by product?**
+    
     Evaluates price elasticity to optimize pricing strategies.
 
-15. **Are there differences in sales performance during weekdays vs. weekends?**
+12. **Are there differences in sales performance during weekdays vs. weekends?**
+    
     Analyzes sales rhythm to plan marketing campaigns and staffing accordingly.
 
-16. **What customer feedback or review trends can be linked to product performance?**
+13. **What customer feedback or review trends can be linked to product performance?**
+    
     Connects sentiment analysis to sales outcomes for improving product quality.
 
-17. **Are there regional or city-specific preferences in product selection?**
+14. **Are there regional or city-specific preferences in product selection?**
+    
     Reveals local taste variations, supporting regional product customization.
 
-18. **How does the average transaction value correlate with customer demographics (if available)?**
+15. **How does the average transaction value correlate with customer demographics (if available)?**
+    
     Identifies demographic segments contributing the most to total revenue.
 
-19. **What is the impact of product bundling or combo offers on revenue?**
+16. **What is the impact of product bundling or combo offers on revenue?**
+    
     Measures the financial success of combo offers and bundled sales promotions.
 
  These questions can serve as a foundation for future analytical iterations by integrating additional datasets such as customer demographics, loyalty program data, or operational metrics.
