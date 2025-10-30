@@ -15,3 +15,6 @@ The primary objectives of this project were:
 3.	To examine sales trends over months, quarters, and the entire year to understand seasonal variations.
 4.	To highlight average price distribution and the impact of product size on total sales.
 5.	To develop an interactive and user-friendly Power BI dashboard that allows dynamic filtering and data exploration.
+
+## Dataset Used
+- <a href=" Starbucks-Sales-Performance-Dashboard/Orders_Table_.csv at main · Atif20004/Starbucks-Sales-Performance-Dashboard"> Orders_Table_ </a>
