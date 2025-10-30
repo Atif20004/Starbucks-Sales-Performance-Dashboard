@@ -17,4 +17,4 @@ The primary objectives of this project were:
 5.	To develop an interactive and user-friendly Power BI dashboard that allows dynamic filtering and data exploration.
 
 ## Dataset Used
-- <a href=" Starbucks-Sales-Performance-Dashboard/Orders_Table_.csv at main · Atif20004/Starbucks-Sales-Performance-Dashboard"> Orders_Table_ </a>
+- <a href="https://github.com/Atif20004/Starbucks-Sales-Performance-Dashboard/blob/main/Orders_Table_.csv"> Orders_Table_ </a>
