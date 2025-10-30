@@ -18,3 +18,4 @@ The primary objectives of this project were:
 
 ## Dataset Used
 - <a href="https://github.com/Atif20004/Starbucks-Sales-Performance-Dashboard/blob/main/Orders_Table_.csv"> Orders_Table_ </a>
+- <a href="https://github.com/Atif20004/Starbucks-Sales-Performance-Dashboard/blob/main/Products_Table_.csv"> Products_Table_ </a>
