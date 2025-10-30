@@ -23,7 +23,7 @@ The primary objectives of this project were:
 
 ## Business Questions for Analysis
 
-### 🧠 Advanced Analytical Questions
+### Advanced Analytical Questions
 
 These questions are addressed using Power BI measures, DAX formulas, and visual analytics created from the available dataset.
 
