@@ -91,6 +91,8 @@ Dashboard Value: *₹560*
 ## Dashboard Interaction 
 - <a href="https://github.com/Atif20004/Starbucks-Sales-Performance-Dashboard/blob/main/Screenshot%202025-10-30%20122200.png"> View Dashboard</a>
 
+## View Dashboard:
+<img width="1357" height="745" alt="Screenshot 2025-10-31 161345" src="https://github.com/user-attachments/assets/440ec417-fc13-48a3-940b-cb5f7da47c1b" />
 
 
 
