@@ -54,7 +54,7 @@ These questions are designed for advanced exploration and business forecasting �
 
 •	Identified join keys, categorical and numeric fields, and columns that needed standardization (locations, product sizes, categories).
 
-#### *2. Data Cleaning & Transformation (Power Query)*
+### *2. Data Cleaning & Transformation (Power Query)*
 
 •	Removed duplicates and empty/invalid rows for order transactions.
 
@@ -64,7 +64,7 @@ These questions are designed for advanced exploration and business forecasting �
 
 •	Made sure all dates were in proper Date type; extracted month/year for time-based slicing.
 
-#### *3. Calculated Fields & DAX Metrics*
+### *3. Calculated Fields & DAX Metrics*
 •	Total_Sale: SUMX('ORDER','ORDER'[transaction_qty]*RELATED('PRODUCT'[unit_price]))
 
   Dashboard Value: *₹59M* 
@@ -81,7 +81,7 @@ These questions are designed for advanced exploration and business forecasting �
 
 Dashboard Value: *₹560* 
 
-#### *4. Dashboard Design & Iteration*
+### *4. Dashboard Design & Iteration*
 •	Selected visuals answering the KPIs above: Bar chart, line chart, pie chart, KPI card, interactive table, donut chart.
 
 •	Iterated on interactive layout for user clarity and storytelling: summary cards, sales trends, location/size charts, top products detail table.
