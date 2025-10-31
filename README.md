@@ -23,7 +23,7 @@ The primary objectives of this project were:
 
 ## Business Questions for Analysis
 
-### Advanced Analytical Questions
+### *Advanced Analytical Questions*
 
 These questions are addressed using Power BI measures, DAX formulas, and visual analytics created from the available dataset.
 
@@ -38,7 +38,7 @@ These questions are addressed using Power BI measures, DAX formulas, and visual 
 9. What’s the trend in sales per employee or footfall per store location?
 10. Are there cross-selling opportunities between product categories (e.g., Coffee & Bakery)?
 
-###  Future Insights & Strategic Analysis
+### *Future Insights & Strategic Analysis*
 
 These questions are designed for advanced exploration and business forecasting — useful for extending the dashboard with predictive insights in the future.
 
