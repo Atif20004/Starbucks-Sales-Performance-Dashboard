@@ -89,7 +89,7 @@ Dashboard Value: *₹560*
 •	Slicer panel for month, location, and size to allow users to easily focus their analysis.
 
 ## Dashboard Interaction 
-- <a href="Starbucks-Sales-Performance-Dashboard/Screenshot 2025-10-30 122200.png at main · Atif20004/Starbucks-Sales-Performance-Dashboard"> View Dashboard</a>
+- <a href="https://github.com/Atif20004/Starbucks-Sales-Performance-Dashboard/blob/main/Screenshot%202025-10-30%20122200.png"> View Dashboard</a>
 
 
 
