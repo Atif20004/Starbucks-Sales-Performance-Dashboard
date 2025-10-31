@@ -88,5 +88,8 @@ Dashboard Value: *₹560*
 
 •	Slicer panel for month, location, and size to allow users to easily focus their analysis.
 
+## Dashboard Interaction
+
+
 
 
