@@ -81,4 +81,12 @@ These questions are designed for advanced exploration and business forecasting �
 
 Dashboard Value: *₹560* 
 
+### *4. Dashboard Design & Iteration*
+•	Selected visuals answering the KPIs above: Bar chart, line chart, pie chart, KPI card, interactive table, donut chart.
+
+•	Iterated on interactive layout for user clarity and storytelling: summary cards, sales trends, location/size charts, top products detail table.
+
+•	Slicer panel for month, location, and size to allow users to easily focus their analysis.
+
+
 
