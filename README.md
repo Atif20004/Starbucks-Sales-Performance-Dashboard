@@ -49,12 +49,18 @@ These questions are designed for advanced exploration and business forecasting �
 5. What are the potential opportunities to increase average transaction value based on customer purchase behavior?
 
  ##  Project Process
-*1. Data Understanding*
+### *1. Data Understanding*
 •	Explored both ORDER and PRODUCT tables to decide which KPIs are relevant and how they can be derived.
+
 •	Identified join keys, categorical and numeric fields, and columns that needed standardization (locations, product sizes, categories).
-2. Data Cleaning & Transformation (Power Query)
+
+### *2. Data Cleaning & Transformation (Power Query)*
+
 •	Removed duplicates and empty/invalid rows for order transactions.
+
 •	Standardized text fields (case, spelling, naming).
+
 •	Joined the ORDER and PRODUCT tables on product_id for analysis.
+
 •	Made sure all dates were in proper Date type; extracted month/year for time-based slicing.
 
