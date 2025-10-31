@@ -66,12 +66,19 @@ These questions are designed for advanced exploration and business forecasting �
 
 ### *3. Calculated Fields & DAX Metrics*
 •	Total_Sale: SUMX('ORDER','ORDER'[transaction_qty]*RELATED('PRODUCT'[unit_price]))
+
   Dashboard Value: *₹59M* 
+  
 •	Total_Quantity_Sold: SUM('ORDER'[transaction_qty])
+
  Dashboard Value: *214K*
+ 
 •	Avg_Sales_per_Order: DIVIDE([Total_Qty_Sold], DISTINCTCOUNT('ORDER'[transaction_id]))
+
  Dashboard Value: *1.44* 
+ 
 •	Avg_Price_per_Product: AVERAGE(product[unit_price])
+
 Dashboard Value: *₹560* 
 
 
