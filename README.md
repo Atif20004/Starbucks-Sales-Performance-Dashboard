@@ -94,5 +94,47 @@ Dashboard Value: *₹560*
 ## View Dashboard:
 <img width="1357" height="745" alt="Screenshot 2025-10-31 161345" src="https://github.com/user-attachments/assets/440ec417-fc13-48a3-940b-cb5f7da47c1b" />
 
+## Dashboard Overview & Visuals (What Each Visual Does)
+### *Top KPI Cards (quick glance):*
+
+•	Total Sales — all revenue generated in analysis period
+
+•	Total Quantity Sold — all items sold
+
+•	Avg Sales per Order — efficiency of each transaction
+
+•	Avg Price per Product — pricing patterns
+
+### *Filters & Interactivity:*
+
+•	Month Slicer and dropdowns (location, product size) give dynamic, customized analysis.
+Visual Descriptions:
+
+•	Bar Chart: Total sales by product category — highlights product line performance.
+
+•	Line Chart: Total sales by month, quarter, year — reveals seasonality and trends.
+
+•	Pie Chart: Total sales by product size — compares performance among Large, Regular, Small sizes.
+
+•	Pie Chart: Total sales by store location — pinpoints top-performing stores.
+
+•	Bar Chart (Top 5): Highest-selling products overall — identifies “star” products for specials or marketing push.
+
+•	Table (Detailed): Displays count, sales, product categories, and other KPIs for top items.
+
+##  Key Insights.
+
+•	Coffee is the most profitable category with ₹22.7M in sales.
+
+•	Large-size products generate the maximum revenue, contributing nearly 34% of total sales.
+
+•	June 2023 recorded the highest monthly sales of ₹14M.
+
+•	Sales performance is consistent across all store locations.
+
+•	Cappuccino (Large) and Dark Chocolate (Large) are the best-selling products
+
+
+
 
 
